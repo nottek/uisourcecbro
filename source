@@ -6257,7 +6257,7 @@ function Neverlose_Main:Window(config)
             MainFrame.Visible = t
         end, {
             {
-                key = Enum.KeyCode.LeftControl,
+                key = Enum.KeyCode.Insert,
                 Toggled = true
             }
         })
